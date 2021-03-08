@@ -11,4 +11,4 @@ How to run
 - `npm i`
 - `npm run start`
 - view swagger docs at http://localhost:3000/api
-- view redoc version by opening `./redoc.html` in your browser ( requires a cors plugin to work)
+- view redoc version by opening `./redoc.html` in your browser ( requires a cors plugin to work, i.e. [cors everywhere](https://addons.mozilla.org/en-CA/firefox/addon/cors-everywhere/))
